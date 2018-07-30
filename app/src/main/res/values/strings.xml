@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DorisNewsFeed</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_news">Currently there are no stories for you. Please come back later and try again!</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="TargetTitle">Category Filter</string>
+
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <string name="preferenceList" translatable="false">categoryPreference</string>
+    <string name="pref_section_default">all</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value">oldest</string>
+
+    <string name="settings_order_by_most_recent_label">Order by most recent</string>
+    <string name="settings_order_by_most_recent_value">newest</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value">relevance</string>
+
+     <string name="news_label">News</string>
+    <string name="news_key">news</string>
+
+    <string name="pol_label">Politics</string>
+    <string name="pol_key">politics</string>
+
+    <string name="society_label">Society</string>
+    <string name="society_key">society</string>
+
+    <string name="science_label">Science</string>
+    <string name="science_key">science</string>
+
+    <string name="music_label">Music</string>
+    <string name="music_key">music</string>
+
+    <string name="tech_label">Technology</string>
+    <string name="tech_key">technology</string>
+
+    <string name="cult_label">Culture</string>
+    <string name="cult_key">culture</string>
+
+    <string name="wn_label">World News</string>
+    <string name="wn_key">world</string>
+
+    <string name="business_label">Business</string>
+    <string name="business_key">business</string>
+
+    <string name="envir_label">Environment</string>
+    <string name="envir_key">environment</string>
+
+    <string name="fromg_label">From the Guardian</string>
+    <string name="fromg_key">theguardian</string>
+
+    <string name="all_label">All</string>
+    <string name="all_key">all</string>
+
+</resources>

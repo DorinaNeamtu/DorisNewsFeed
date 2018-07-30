@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_most_recent_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_most_recent_value</item>
+         <item>@string/settings_order_by_oldest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+    <string-array name="pref_section_entries" >
+        <item>@string/all_label</item>
+        <item>@string/business_label</item>
+        <item>@string/cult_label</item>
+        <item>@string/envir_label</item>
+        <item>@string/fromg_label</item>
+        <item>@string/music_label</item>
+        <item>@string/news_label</item>
+        <item>@string/pol_label</item>
+        <item>@string/science_label</item>
+        <item>@string/society_label</item>
+        <item>@string/tech_label</item>
+        <item>@string/wn_label</item>
+    </string-array>
+    <string-array name="pref_section_values" >
+        <item>@string/all_key</item>
+        <item>@string/business_key</item>
+        <item>@string/cult_key</item>
+        <item>@string/envir_key</item>
+        <item>@string/fromg_key</item>
+        <item>@string/music_key</item>
+        <item>@string/news_key</item>
+        <item>@string/pol_key</item>
+        <item>@string/science_key</item>
+        <item>@string/society_key</item>
+        <item>@string/tech_key</item>
+        <item>@string/wn_key</item>
+    </string-array>
+</resources>
